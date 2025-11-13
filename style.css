@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
   }
   
   body {
@@ -10,6 +11,7 @@
     background: linear-gradient(from bottom right) #f9f9f9, #fff, #f9f9f9;
     color: #222;
     line-height: 1.6;
+    scroll-behavior: smooth;
   }
   header {
     background-color: #1e1e2f;
